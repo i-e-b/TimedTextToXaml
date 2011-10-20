@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/2006/10/ttaf1" xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+  <head>
+    <metadata xmlns:ttm="http://www.w3.org/2006/10/ttaf1#metadata">
+      <ttm:copyright>x</ttm:copyright>
+    </metadata>
+    <styling>
+      <style id="1" tts:textAlign="center" tts:color="transparent" tts:fontFamily="Verdana" tts:wrapOption="wrap" />
+    </styling>
+  </head>
+  <body>
+    <div xml:id="captions" xml:lang="en">
+      <p begin="00:00:07.501" end="00:00:13.500">This is a quick test script</p>
+      <p begin="00:00:13.501" end="00:00:19.500">For "TimedTextToXaml"</p>
+      <p begin="00:00:19.701" end="00:00:24.500">Which is a dirty lunch-time hack</p>
+      <p begin="00:00:28.501" end="00:00:32.500">to demonstrate how to do burn-in captions in Microsoft Expression Encoder</p>
+      <p begin="00:00:32.501" end="00:00:38.600">The rest of the captions are just random text,</p>
+      <p begin="00:00:38.601" end="00:00:42.500">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <p begin="00:00:42.501" end="00:00:46.900">Vivamus porttitor odio at ligula consectetur a dictum nulla tempus...</p>
+      <p begin="00:00:46.901" end="00:00:51.900">Pellentesque eu felis quis ipsum lacinia rutrum</p>
+      <p begin="00:00:51.901" end="00:00:58.00">Nunc pretium tincidunt magna, ac interdum purus aliquam dapibus</p>
+      <p begin="00:00:58.001" end="00:01:00.00">Praesent porta iaculis mi, id molestie diam feugiat at</p>
+      <p begin="00:01:00.01" end="00:01:05.05">Nunc pharetra lorem et nulla porta eget condimentum eros faucibus</p>
+      <p begin="00:01:05.051" end="00:01:09.20">Maecenas semper lacus lacinia velit adipiscing nec lobortis libero accumsan</p>
+      <p begin="00:01:09.21" end="00:01:11.60">Suspendisse aliquam risus eu ipsum viverra pulvinar</p>
+    </div>
+  </body>
+</tt>
